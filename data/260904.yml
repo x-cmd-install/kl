@@ -1,22 +1,24 @@
 about:
-  description: An interactive Kubernetes log viewer for your terminal.
+  description:
+  |
+    An interactive Kubernetes log viewer for your terminal.
   license: MIT
   homepage: 
   head: 6b0fe84
   archived: false
   latestVersion: v0.9.1
-  collectedAt: 2026-09-04T04:43:45Z
+  collectedAt: 2026-09-04T19:43:31Z
 timeline:
   created: 2024-09-18
   lastCommit: 2026-04-13
   lastRelease: 2026-04-14
 popularity:
-  star: 416
+  star: 417
   watcher: 5
   fork: 5
   release: 13
   contributor: 2
-  pullRequest: 1
+  pullRequest: 2
   issue: 10
 language:
   Go: 319422
@@ -26,10 +28,18 @@ language:
   Dockerfile: 506
   HTML: 500
   Lua: 113
-totalLine: 338098
+totalBytes: 338098
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -60,3 +70,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 35
+  last720d:
+    since: 2024-09-14
+    release: 13
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 8
+    openIssue: 2
+    commit: 135
+total:
+  release: 13
+  mergedPR: 1
+  openPR: 0
+  closedIssue: 8
+  openIssue: 2
+  commit: 135
+---
+---
+
