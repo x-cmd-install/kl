@@ -5,7 +5,7 @@ about:
   head: 6b0fe84
   archived: false
   latestVersion: "v0.9.1"
-  collectedAt: 2026-09-07T04:58:21Z
+  collectedAt: 2026-09-07T19:25:38Z
 timeline:
   created: 2024-09-18
   lastCommit: 2026-04-13
@@ -85,7 +85,7 @@ total:
   commit: 135
 ---
 path: /home/runner/.x-repo/github.com/robinovitch61/kl
-collectedAt: 2026-09-07T04:58:23Z
+collectedAt: 2026-09-07T19:25:40Z
 loc:
   Go:
     code: 9288
@@ -151,7 +151,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:58:23+00:00
+  collectedAt: 2026-09-07T19:25:41+00:00
   platform:
     darwin/arm64:
       name:  kl_0.9.1_Darwin_all.tar.gz
