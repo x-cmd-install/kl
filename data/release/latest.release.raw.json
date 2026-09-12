@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 14096779,
       "digest": "sha256:2fb308cbc9dc0fd85a5fb4233e209d986fd55f7a7d774713c7583dbfc83ae2e9",
-      "download_count": 208,
+      "download_count": 209,
       "created_at": "2026-04-14T19:13:12Z",
       "updated_at": "2026-04-14T19:13:13Z",
       "browser_download_url": "https://github.com/robinovitch61/kl/releases/download/v0.9.1/kl_0.9.1_Linux_x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 12619946,
       "digest": "sha256:aefcbf8dc5b9201181339d0743d0a14518554ca5ba1de7ddcb3ac6ff8c646733",
-      "download_count": 178,
+      "download_count": 179,
       "created_at": "2026-04-14T19:13:13Z",
       "updated_at": "2026-04-14T19:13:14Z",
       "browser_download_url": "https://github.com/robinovitch61/kl/releases/download/v0.9.1/kl_0.9.1_Windows_arm64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13783847,
       "digest": "sha256:2d7174ed9e9a29ebd2825fa8110bb77bbb4c9bad0dfb8421e0bbd89c2dd094bd",
-      "download_count": 261,
+      "download_count": 262,
       "created_at": "2026-04-14T19:13:12Z",
       "updated_at": "2026-04-14T19:13:13Z",
       "browser_download_url": "https://github.com/robinovitch61/kl/releases/download/v0.9.1/kl_0.9.1_Windows_i386.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 14511840,
       "digest": "sha256:72460ca9341d4bdae147562146c2b7986b06feaa1f2a2cac4d3ac54511a2e926",
-      "download_count": 333,
+      "download_count": 335,
       "created_at": "2026-04-14T19:13:12Z",
       "updated_at": "2026-04-14T19:13:13Z",
       "browser_download_url": "https://github.com/robinovitch61/kl/releases/download/v0.9.1/kl_0.9.1_Windows_x86_64.zip"
