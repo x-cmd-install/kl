@@ -4,7 +4,7 @@
 
 An interactive Kubernetes log viewer for your terminal.
 
-![kl](https://repo.x-cmd.io/kl.svg)
+[![x-cmd/install — kl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kl.svg)](https://x-cmd.com/install/kl)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **9,969** lines of code across **66** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 3 | 0 | 0 | 0 | 0 | 7 |
-| 360d | 2025-09-23 | 4 | 0 | 0 | 0 | 0 | 35 |
-| last720d | 2024-09-28 | 12 | 1 | 0 | 7 | 2 | 129 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 3 | 0 | 0 | 0 | 0 | 6 |
+| 360d | 2025-09-25 | 4 | 0 | 0 | 0 | 0 | 35 |
+| last720d | 2024-09-30 | 11 | 1 | 0 | 7 | 2 | 123 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for kl lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:08:08Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:28:09Z._
